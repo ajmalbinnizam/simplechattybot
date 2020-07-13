@@ -1,0 +1,317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fb311e14-a1a6-4eb6-90fa-b5b2b68e22ac" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Factorial/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Factorial/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Factorial/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Factorial/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Half-life/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Half-life/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Half-life/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Half-life/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The last digit of a number/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The last digit of a number/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The last digit of a number/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/The last digit of a number/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Underworld/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Underworld/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Underworld/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Underworld/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Very odd/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Very odd/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Very odd/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Very odd/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/What's my name/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/What's my name/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/What's my name/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/lesson-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/tests.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/pip/_vendor/distlib/_backport/sysconfig.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/pip/_vendor/distlib/t32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/pip/_vendor/distlib/t64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/pip/_vendor/distlib/w32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/pip/_vendor/distlib/w64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/setuptools/cli-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/setuptools/cli-64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/setuptools/cli.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/setuptools/gui-32.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/setuptools/gui-64.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Lib/site-packages/setuptools/gui.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/activate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/deactivate.bat" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/easy_install-3.8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/easy_install.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/pip.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/pip3.8.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/pip3.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/python.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/Scripts/pythonw.exe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/VirtualEnvironment/pyvenv.cfg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/simple chatty bot.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/simple chatty bot.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Calculate a remainder/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Calculate a remainder/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Calculate a remainder/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Calculate a remainder/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Calculate a remainder/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Calculate a remainder/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Desks/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Desks/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Desks/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Desks/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The power/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The power/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The power/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The power/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The power/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The power/task.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The power/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The power/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage 1.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage 1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/stage 3.py" beforeDir="false" afterPath="$PROJECT_DIR$/stage 3.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1eLkahzmOycTs9IYfNWDf90R8fn" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RunManager" selected="Python.task (5)">
+    <configuration name="task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple chatty bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/The first digit of a two-digit number" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple chatty bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Desks" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Desks/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple chatty bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Very odd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Very odd/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple chatty bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Half-life" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Half-life/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="task (5)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple chatty bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Factorial" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Factorial/task.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.task (5)" />
+        <item itemvalue="Python.task (4)" />
+        <item itemvalue="Python.task (3)" />
+        <item itemvalue="Python.task (2)" />
+        <item itemvalue="Python.task (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fb311e14-a1a6-4eb6-90fa-b5b2b68e22ac" name="Default Changelist" comment="" />
+      <created>1594108325549</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1594108325549</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1594626065820">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1594626065820" />
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom" timestamp="1594659760514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594659760514" />
+    <state width="1322" height="216" key="GridCell.Tab.0.center" timestamp="1594659760514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1594659760514" />
+    <state width="1322" height="216" key="GridCell.Tab.0.left" timestamp="1594659760514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1594659760514" />
+    <state width="1322" height="216" key="GridCell.Tab.0.right" timestamp="1594659760514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1322" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1594659760514" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.bottom" timestamp="1594659760497">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594659760497" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.center" timestamp="1594659760495">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1594659760495" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.left" timestamp="1594659760515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1594659760515" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.right" timestamp="1594659760496">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1594659760496" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.bottom" timestamp="1594659760464">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1594659760464" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.center" timestamp="1594659760463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1594659760463" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.left" timestamp="1594659760462">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1594659760462" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.right" timestamp="1594659760463">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1594659760463" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1594405465624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1594405465624" />
+    <state x="822" y="298" width="476" height="215" key="dock-window-1" timestamp="1594659761953">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="476" height="215" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1594659761953" />
+    <state x="822" y="298" width="476" height="215" key="dock-window-2" timestamp="1594659761954">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="822" y="298" width="476" height="215" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1594659761954" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/Factorial/task.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
