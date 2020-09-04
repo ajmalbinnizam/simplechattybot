@@ -2,59 +2,27 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fb311e14-a1a6-4eb6-90fa-b5b2b68e22ac" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Problems/Calculating S V P/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Calculating S V P/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Calculating S V P/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Calculating S V P/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/In the middle/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/In the middle/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/In the middle/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/In the middle/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Longest word/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Longest word/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Longest word/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Longest word/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Lucky ticket/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Lucky ticket/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Lucky ticket/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Lucky ticket/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Lucky ticket/task.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Make the function work/task-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Make the function work/task-remote-info.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Make the function work/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Problems/Make the function work/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageData" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/frameworkLessonHistory/storage.storageRecordIndex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Healthy sleep/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Minimum and maximum/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Minimum and maximum/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Minimum and maximum/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Minimum and maximum/task.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task-remote-info.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Problems/Spellchecker/task.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Calculate a remainder/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Calculate a remainder/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Desks/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Desks/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Desks/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Factorial/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Factorial/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Factorial/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Factorial/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find even/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find even/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find even/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find even/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find even/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find even/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Find even/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Find even/task.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Half-life/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Half-life/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Half-life/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Half-life/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The first digit of a two-digit number/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The last digit of a number/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The last digit of a number/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/The power/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The power/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Underworld/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Underworld/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Underworld/task.html" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Underworld/task.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Problems/Very odd/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Very odd/task-remote-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Calculate a remainder/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Calculate a remainder/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Calculate a remainder/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Calculate a remainder/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Lucky ticket/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Lucky ticket/task-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/Lucky ticket/task.py" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/Lucky ticket/task.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Problems/The power/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/The power/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Problems/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Problems/lesson-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/Hello! What’s your name/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/How old are you/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/Let’s count!/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/What's my name/task-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/What's my name/task-remote-info.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/lesson-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/lesson-info.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/The student and the teacher/task-info.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Simple Chatty Bot/task/tests.py" beforeDir="false" afterPath="$PROJECT_DIR$/Simple Chatty Bot/task/tests.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/course-remote-info.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/course-remote-info.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +48,28 @@
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Python.task (3)">
+  <component name="RunManager" selected="Python.bot">
+    <configuration name="bot" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="simple chatty bot" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Simple Chatty Bot/task/bot" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Simple Chatty Bot/task/bot/bot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="task (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple chatty bot" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -89,11 +78,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Calculating S V P" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Healthy sleep" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Calculating S V P/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Healthy sleep/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -102,7 +91,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="task (2)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="task (4)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="simple chatty bot" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -110,32 +99,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Make the function work" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Lucky ticket" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Make the function work/task.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="task (3)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="simple chatty bot" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/In the middle" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/In the middle/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Lucky ticket/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,11 +120,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Factorial" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Calculate a remainder" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Factorial/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Calculate a remainder/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,11 +141,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Find even" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Problems/Minimum and maximum" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Find even/task.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Problems/Minimum and maximum/task.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -188,11 +156,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.task (3)" />
-        <item itemvalue="Python.task (2)" />
+        <item itemvalue="Python.bot" />
         <item itemvalue="Python.task (1)" />
         <item itemvalue="Python.task" />
         <item itemvalue="Python.task (5)" />
+        <item itemvalue="Python.task (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -207,80 +175,98 @@
       <option name="presentableId" value="Default" />
       <updated>1594108325549</updated>
     </task>
+    <task id="LOCAL-00001" summary="section 4">
+      <created>1599196692485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1599196692485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="section 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="section 4" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="417" y="162" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1599196548970">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="162" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1599196548970" />
+    <state x="281" y="0" key="CommitChangelistDialog2" timestamp="1599196687615">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="281" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1599196687615" />
     <state x="0" y="0" key="FileDocumentManager.FileCacheConflict" timestamp="1594626065820">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="0" y="0" key="FileDocumentManager.FileCacheConflict/0.0.1366.728@0.0.1366.728" timestamp="1594626065820" />
-    <state width="1322" height="128" key="GridCell.Tab.0.bottom" timestamp="1599140575208">
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom" timestamp="1599238557294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599140575208" />
-    <state width="1322" height="128" key="GridCell.Tab.0.center" timestamp="1599140575207">
+    <state width="1322" height="128" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599238557294" />
+    <state width="1322" height="128" key="GridCell.Tab.0.center" timestamp="1599238557294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599140575207" />
-    <state width="1322" height="128" key="GridCell.Tab.0.left" timestamp="1599140575207">
+    <state width="1322" height="128" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1599238557294" />
+    <state width="1322" height="128" key="GridCell.Tab.0.left" timestamp="1599238557294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599140575207" />
-    <state width="1322" height="128" key="GridCell.Tab.0.right" timestamp="1599140575208">
+    <state width="1322" height="128" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1599238557294" />
+    <state width="1322" height="128" key="GridCell.Tab.0.right" timestamp="1599238557294">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1322" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599140575208" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.bottom" timestamp="1599139735051">
+    <state width="1322" height="128" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1599238557294" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.bottom" timestamp="1599227705106">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599139735051" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.center" timestamp="1599139735049">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599227705106" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.center" timestamp="1599227705105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599139735049" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.left" timestamp="1599139742384">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1599227705105" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.left" timestamp="1599228046771">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599139742384" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.right" timestamp="1599139735050">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1599228046771" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.right" timestamp="1599227705105">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599139735050" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.bottom" timestamp="1599139734970">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1599227705105" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.bottom" timestamp="1599227705047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599139734970" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.center" timestamp="1599139734965">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.bottom/0.0.1366.728@0.0.1366.728" timestamp="1599227705047" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.center" timestamp="1599227705047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1599139734965" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.left" timestamp="1599139734965">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.center/0.0.1366.728@0.0.1366.728" timestamp="1599227705047" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.left" timestamp="1599227705046">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1599139734965" />
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.right" timestamp="1599139734969">
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.left/0.0.1366.728@0.0.1366.728" timestamp="1599227705046" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.right" timestamp="1599227705047">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1599139734969" />
+    <state x="822" y="298" width="460" height="177" key="GridCell.Tab.2.right/0.0.1366.728@0.0.1366.728" timestamp="1599227705047" />
     <state x="184" y="0" key="SettingsEditor" timestamp="1597510568907">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1597510568907" />
-    <state x="822" y="298" width="476" height="215" key="dock-window-1" timestamp="1599139752608">
+    <state x="822" y="298" width="476" height="215" key="dock-window-1" timestamp="1599227706697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="476" height="215" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1599139752608" />
-    <state x="822" y="298" width="476" height="215" key="dock-window-2" timestamp="1598972210838">
+    <state x="822" y="298" width="476" height="215" key="dock-window-1/0.0.1366.728@0.0.1366.728" timestamp="1599227706697" />
+    <state x="822" y="298" width="476" height="215" key="dock-window-2" timestamp="1599227706697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="476" height="215" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1598972210838" />
-    <state x="822" y="298" width="476" height="215" key="dock-window-3" timestamp="1598972210838">
+    <state x="822" y="298" width="476" height="215" key="dock-window-2/0.0.1366.728@0.0.1366.728" timestamp="1599227706697" />
+    <state x="822" y="298" width="476" height="215" key="dock-window-3" timestamp="1599227706697">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="822" y="298" width="476" height="215" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1598972210838" />
+    <state x="822" y="298" width="476" height="215" key="dock-window-3/0.0.1366.728@0.0.1366.728" timestamp="1599227706697" />
     <state x="822" y="298" width="476" height="215" key="dock-window-4" timestamp="1598972210838">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -305,6 +291,16 @@
           <url>file://$PROJECT_DIR$/Problems/Factorial/task.py</url>
           <line>1</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/Calculate a remainder/task.py</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Problems/Calculate a remainder/task.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="4" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
