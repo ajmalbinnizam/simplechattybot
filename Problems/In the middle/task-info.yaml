@@ -1,0 +1,18 @@
+type: code
+files:
+- name: task.py
+  visible: true
+  text: |-
+    # don't modify this code
+    # a stores an input value
+    a = int(input().strip())
+
+    # put your code here
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/5924
+status: Solved
+feedback:
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/5924">JetBrains
+    Academy</a></html>
+  time: Thu, 03 Sep 2020 13:31:43 UTC
+record: -1

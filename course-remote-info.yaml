@@ -27,29 +27,33 @@ topics:
     theory_id: 5879
   - title: Comments
     theory_id: 6081
+  - title: Taking input
+    theory_id: 5913
   - title: Basic data types
     theory_id: 5852
   - title: Variables
     theory_id: 5859
-  - title: Taking input
-    theory_id: 5913
   2:
-  - title: Integer arithmetic
-    theory_id: 5865
   - title: Naming variables
     theory_id: 5885
   - title: Program with numbers
     theory_id: 5872
+  - title: Integer arithmetic
+    theory_id: 5865
   3:
-  - title: Boolean logic
-    theory_id: 6025
-  - title: Comparisons
-    theory_id: 5920
   - title: If statement
     theory_id: 5953
   - title: While loop
     theory_id: 5940
+  - title: Boolean logic
+    theory_id: 6025
+  - title: Comparisons
+    theory_id: 5920
   4:
+  - title: List
+    theory_id: 5979
+  - title: Indexes
+    theory_id: 6189
   - title: Invoking a function
     theory_id: 5891
   - title: Declaring a function
